@@ -45,17 +45,17 @@ const Architecture = () => {
                     : 'border-b lg:border-b-0 lg:border-r border-border'
                 }`}
                 style={index === 0 ? {
-                  backgroundImage: 'url(/lovable-uploads/9c384700-f43c-4552-9545-8a1f90e9a5f0.png)',
+                  backgroundImage: 'url(/altan-uploads/9c384700-f43c-4552-9545-8a1f90e9a5f0.png)',
                   backgroundSize: '100% auto',
                   backgroundPosition: 'top',
                   backgroundRepeat: 'no-repeat'
                 } : index === 1 ? {
-                  backgroundImage: 'url(/lovable-uploads/2259ffc6-2af5-429e-941d-3a82f0f6189b.png)',
+                  backgroundImage: 'url(/altan-uploads/2259ffc6-2af5-429e-941d-3a82f0f6189b.png)',
                   backgroundSize: '100% auto',
                   backgroundPosition: 'top',
                   backgroundRepeat: 'no-repeat'
                 } : index === 2 ? {
-                  backgroundImage: 'url(/lovable-uploads/3f8708e6-0939-4185-bb8a-56ef7b4777f8.png)',
+                  backgroundImage: 'url(/altan-uploads/3f8708e6-0939-4185-bb8a-56ef7b4777f8.png)',
                   backgroundSize: '100% auto',
                   backgroundPosition: 'top',
                   backgroundRepeat: 'no-repeat'

@@ -37,7 +37,7 @@ const CTASection = () => {
     <section 
       className="section-padding overflow-x-hidden relative"
       style={{
-        backgroundImage: `url('/lovable-uploads/50597573-28c8-40d6-95fe-727a8090807c.png')`,
+        backgroundImage: `url('/altan-uploads/50597573-28c8-40d6-95fe-727a8090807c.png')`,
         backgroundSize: 'cover',
         backgroundPosition: 'center',
         backgroundRepeat: 'no-repeat'
@@ -53,7 +53,7 @@ const CTASection = () => {
             <FadeIn delay={0.2}>
               <div className="w-9 h-14 flex items-center justify-center">
                 <img 
-                  src="/lovable-uploads/b652779f-5683-4f89-9b1c-e1f8d0f9aa01.png" 
+                  src="/altan-uploads/b652779f-5683-4f89-9b1c-e1f8d0f9aa01.png" 
                   alt="Run Logo" 
                   className="w-9 h-auto"
                 />

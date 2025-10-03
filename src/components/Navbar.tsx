@@ -18,7 +18,7 @@ const Navbar = () => {
         {/* Logo */}
         <div className="flex items-center">
           <img 
-            src="/lovable-uploads/b652779f-5683-4f89-9b1c-e1f8d0f9aa01.png" 
+            src="/altan-uploads/b652779f-5683-4f89-9b1c-e1f8d0f9aa01.png" 
             alt="Run Logo" 
             className="h-8 w-auto"
           />
